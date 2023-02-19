@@ -99,7 +99,7 @@ footer p {
   font-size: 0.75em;
 }
 
-footer p2 {
+footer .copyright {
   color: #fff;
   font-weight: 400;
   float: left;
